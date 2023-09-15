@@ -4,6 +4,11 @@ const Checkout = () => {
     return (
         <div>
             <h2>Checkout your order!!! page </h2>
+            <h2>Checkout your order!!! page </h2>
+            <h2>Checkout your order!!! page </h2>
+            <h2>Checkout your order!!! page </h2>
+            <h2>Checkout your order!!! page </h2>
+            <h2>Checkout your order!!! page </h2>
         </div>
     );
 };
